@@ -1,0 +1,6 @@
+promotions.admin:
+  title: 'Promotional Video Settings'
+  description: 'Admin settings for the Promotional Video'
+  parent: system.admin_content
+  route_name: promotions.content
+  weight: 100

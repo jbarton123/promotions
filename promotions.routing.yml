@@ -1,0 +1,7 @@
+promotions.content:
+  path: '/admin/promotional-video-settings'
+  defaults:
+    _title: 'Promotional Video Settings'
+    _form: '\Drupal\promotions\Form\PromotionsForm'
+  requirements:
+    _permission: 'administer content'

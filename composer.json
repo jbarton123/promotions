@@ -1,0 +1,8 @@
+{
+  "name": "drupal/promotions",
+  "author": "Jack Barton",
+  "role": "Software Engineer",
+  "description": "Provides a block for users to display a video embed.",
+  "type": "project",
+  "license": "GPL-2.0+"
+}

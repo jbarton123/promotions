@@ -1,0 +1,15 @@
+<?php
+/**
+* @author Jack Barton <jackbarton4@hotmail.co.uk>
+*/
+
+/**
+ * Implements hook_theme().
+ */
+function promotions_theme() {
+  return array(
+    'promotion-block'=> array(
+      'variables' => ['markup' => NULL]
+    )
+  );
+}
